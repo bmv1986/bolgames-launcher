@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.1</version>
-  <url>https://github.com/bmv1986/bolgames-launcher/releases/download/v1.0.1/BOLGAMES_Launcher_Setup.exe</url>
-  <changelog>https://github.com/bmv1986/bolgames-launcher/releases/tag/v1.0.1</changelog>
+  <version>1.0.3</version>
+  <url>https://github.com/bmv1986/bolgames-launcher/releases/download/v1.0.3/BOLGAMES_Launcher_Setup.exe</url>
+  <changelog>https://github.com/bmv1986/bolgames-launcher/releases/tag/v1.0.3</changelog>
   <mandatory>false</mandatory>
 </item>
