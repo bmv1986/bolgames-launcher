@@ -1,0 +1,11 @@
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\BOLGAMES.csproj.AssemblyReference.cache
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\MainWindow.baml
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\App.baml
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\MainWindow.g.cs
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\App.g.cs
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\BOLGAMES_MarkupCompile.cache
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\BOLGAMES.g.resources
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\BOLGAMES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\BOLGAMES.AssemblyInfoInputs.cache
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\BOLGAMES.AssemblyInfo.cs
+C:\Users\bmv86\Downloads\BOLGAMES\obj\Release\net9.0-windows\BOLGAMES.csproj.CoreCompileInputs.cache

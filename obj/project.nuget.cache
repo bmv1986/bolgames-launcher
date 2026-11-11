@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rto6LbnK3FY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bmv86\\Downloads\\BOLGAMES\\BOLGAMES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmv86\\.nuget\\packages\\autoupdater.net.official\\1.9.3\\autoupdater.net.official.1.9.3.nupkg.sha512",
+    "C:\\Users\\bmv86\\.nuget\\packages\\microsoft.web.webview2\\1.0.4078.44\\microsoft.web.webview2.1.0.4078.44.nupkg.sha512",
+    "C:\\Users\\bmv86\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\bmv86\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.21\\microsoft.netcore.app.runtime.win-x64.9.0.21.nupkg.sha512",
+    "C:\\Users\\bmv86\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.21\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.21.nupkg.sha512",
+    "C:\\Users\\bmv86\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.21\\microsoft.aspnetcore.app.runtime.win-x64.9.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
